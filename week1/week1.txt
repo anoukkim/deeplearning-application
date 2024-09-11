@@ -1,0 +1,20 @@
+Week 1-1
+
+https://github.com/MyungKyuYi/AI-class/blob/main/diabetes.csv
+
+1. 당뇨병 데이터를 가지고 머신러닝 5가지 분류를 수행.
+(SVM, LR, RF, DT, KNN)
+2. 동일한 데이터로 딥러닝 분류 수행하라. (dense layer 만 사용)
+3. 해당 데이터에서 Outcome을 삭제하고 BMI를 예측하는 회귀를 수행하라.
+4. 3번과 동일하지만 dense layer만 사용한 신경만으로 회귀를 수행하라.
+https://github.com/MyungKyuYi/AI-class 1번~4번 예제 참조
+해당 소스는 github에 올리고, 본인 소스를 완벽하게 이해할 것, 추후 실시 시험을 통한 평가예정
+
+
+Week 1-2
+
+https://github.com/MyungKyuYi/AI-class/blob/main/abalone.csv
+
+전복 데이터를 가지고, 머신러닝 분류, 회귀 
+신경망 분류, 회귀를 각각 수행하라
+레이블은 둘다 Ring
