@@ -1,0 +1,15 @@
+pytorch implementation error:
+validation loss and validation accuracy both not being updated during fine-tuning process
+
+potential problems:
+1. small dataeset (used SMOTE, but still too small)
+2. too complex model
+3. unfreeze more layers of pretrained model
+
+
+tensorflow implementation error:
+train loss and validation loss both are zero during fine-tuning process
+
+potential problems:
+1. small dataset
+2. fine-tuned on same dataset, not a new dataset like sc
