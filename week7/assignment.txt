@@ -1,0 +1,7 @@
+-  DSA dataset을 이용해서, 정상데이터(Lying)과 비정상데이터 설정 (다른 jumping이 아니라 activity 선택)
+
+- Encoder와 Decoder의 구조가 같은 오토인코더로 지난주차와 동일하게 이상치 탐지
+
+- Encoder와 Decoder의 구조가 다른 비대칭형 뉴런수로 성능 확인
+
+- DAE를 사용하여 성능확인
